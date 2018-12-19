@@ -1,0 +1,1 @@
+print _"Exercice GitHub jour 1"_
